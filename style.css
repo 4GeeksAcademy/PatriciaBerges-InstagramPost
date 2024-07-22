@@ -3,7 +3,7 @@ body{
     font-family: Roboto;
 }
 .post{
-    width: 350px;
+    width: 375px;
     height: 500px;
     background-color: white;
     margin: auto;
@@ -37,13 +37,13 @@ img{
 .foot_icons{
     display: flex;
     position: relative;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .likes{
     font-size: small;
-    text-align: center;
+    margin: 15px 15px 15px 15px;
 }
 .description{
     font-size: small;
-    margin: 0 10px 0 10px;
+    margin: 0 15px 0 15px;
 }
